@@ -20,13 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f94f86f0-07e3-404c-aa09-f7d00c6cb955" name="Default Changelist" comment="Titel aller Seiten angepasst">
+      <change afterPath="$PROJECT_DIR$/../Übung 3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/Aufgaben.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/Login-Seite.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/Personen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/Projekte.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/Reiter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/Todos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/bootstrapIcons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/checkprojekt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/saveresetButtons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Übung 3/tableIcons.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgaben.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login-Seite.html" beforeDir="false" afterPath="$PROJECT_DIR$/Login-Seite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personen.html" beforeDir="false" afterPath="$PROJECT_DIR$/Personen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projekte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reiter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reiter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Todos.html" beforeDir="false" afterPath="$PROJECT_DIR$/Todos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +68,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Neuer Ordner (3)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\luong\OneDrive\Desktop\Neuer Ordner (3)" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,7 +85,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605693869870</updated>
-      <workItem from="1605693871662" duration="24532000" />
+      <workItem from="1605693871662" duration="30440000" />
+      <workItem from="1606743739112" duration="9348000" />
     </task>
     <task id="LOCAL-00001" summary="ToDo Cards verbessert">
       <created>1605952788969</created>
@@ -76,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605952788970</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Titel aller Seiten angepasst">
+      <created>1605955759930</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605955759930</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +118,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ToDo Cards verbessert" />
@@ -99,21 +126,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="Titel aller Seiten angepasst" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="374" y="160" key="#Deployment" timestamp="1605697393593">
+    <state x="374" y="160" key="#Deployment" timestamp="1606062287148">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="374" y="160" key="#Deployment/0.0.1563.1002@0.0.1563.1002" timestamp="1605697393593" />
+    <state x="374" y="160" key="#Deployment/0.0.1563.1002@0.0.1563.1002" timestamp="1606062287148" />
     <state x="534" y="325" key="#Notifications" timestamp="1605694670052">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
     <state x="534" y="325" key="#Notifications/0.0.1563.1002@0.0.1563.1002" timestamp="1605694670052" />
-    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1605952793429">
+    <state x="562" y="243" key="FileChooserDialogImpl" timestamp="1606743899998">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1605952793429" />
+    <state x="562" y="243" key="FileChooserDialogImpl/0.0.1563.1002@0.0.1563.1002" timestamp="1606743899998" />
+    <state x="291" y="146" key="SettingsEditor" timestamp="1606063327080">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="291" y="146" key="SettingsEditor/0.0.1563.1002@0.0.1563.1002" timestamp="1606063327080" />
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1605955763821">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1605955763821" />
     <state x="599" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605712660892">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
     <state x="599" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1563.1002@0.0.1563.1002" timestamp="1605712660892" />
+    <state x="223" y="81" width="1033" height="691" maximized="true" key="dock-window-1" timestamp="1606062505304">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="223" y="81" width="1033" height="691" maximized="true" key="dock-window-1/0.0.1563.1002@0.0.1563.1002" timestamp="1606062505304" />
   </component>
 </project>
