@@ -20,24 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f94f86f0-07e3-404c-aa09-f7d00c6cb955" name="Default Changelist" comment="Titel aller Seiten angepasst">
-      <change afterPath="$PROJECT_DIR$/../Übung 3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/Aufgaben.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/Login-Seite.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/Personen.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/Projekte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/Reiter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/Todos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/bootstrapIcons.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/checkprojekt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/saveresetButtons.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Übung 3/tableIcons.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605693869870</updated>
       <workItem from="1605693871662" duration="30440000" />
-      <workItem from="1606743739112" duration="9348000" />
+      <workItem from="1606743739112" duration="9683000" />
     </task>
     <task id="LOCAL-00001" summary="ToDo Cards verbessert">
       <created>1605952788969</created>
