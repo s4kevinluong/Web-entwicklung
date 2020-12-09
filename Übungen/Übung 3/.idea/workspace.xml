@@ -20,15 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a08be12-eb08-436a-96be-d0a800bf270c" name="Default Changelist" comment="Übung 3 Aufgabe 9">
-      <change afterPath="$PROJECT_DIR$/Aufgabe 10/Arrays.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aufgabe 10/aufgabenArray.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aufgabe 10/personenArray.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aufgabe 10/reiterArray.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Übung 2/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Übung 2/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Übung 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Übung 2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Übung 2/Aufgaben.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Übung 2/Aufgaben.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Übung 2/Personen.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Übung 2/Personen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Übung 2/Projekte.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Übung 2/Projekte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Übung 2/Reiter.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Übung 2/Reiter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Übung 2/Todos.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Übung 2/Todos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe 10/Arrays.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgaben.php" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personen.php" beforeDir="false" afterPath="$PROJECT_DIR$/Personen.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606743906695</updated>
-      <workItem from="1606743907849" duration="22887000" />
+      <workItem from="1606743907849" duration="26946000" />
+      <workItem from="1607104300633" duration="5559000" />
+      <workItem from="1607358783771" duration="1565000" />
+      <workItem from="1607500009658" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="Übung 3 Aufgabe 9">
       <created>1606759628289</created>
@@ -94,6 +97,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Übung 3 Aufgabe 9" />
@@ -116,10 +120,10 @@
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
     <state x="406" y="224" key="NewPhpClassDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1606758176163" />
-    <state x="617" y="425" key="NewPhpFileDialog" timestamp="1606823163287">
+    <state x="617" y="425" key="NewPhpFileDialog" timestamp="1607104894293">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="617" y="425" key="NewPhpFileDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1606823163287" />
+    <state x="617" y="425" key="NewPhpFileDialog/0.0.1563.1002@0.0.1563.1002" timestamp="1607104894293" />
     <state x="291" y="146" key="SettingsEditor" timestamp="1606748917918">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
@@ -128,5 +132,19 @@
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
     <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1606822973108" />
+    <state x="599" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607105981349">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state x="599" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1563.1002@0.0.1563.1002" timestamp="1607105981349" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Aufgabe 10/aufgabenArray.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

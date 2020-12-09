@@ -19,16 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f94f86f0-07e3-404c-aa09-f7d00c6cb955" name="Default Changelist" comment="Titel aller Seiten angepasst">
-      <change afterPath="$PROJECT_DIR$/../Übung 3/Aufgabe 10/Arrays.php" afterDir="false" />
+    <list default="true" id="f94f86f0-07e3-404c-aa09-f7d00c6cb955" name="Default Changelist" comment="Seiten angepasst">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgaben.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgaben.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personen.html" beforeDir="false" afterPath="$PROJECT_DIR$/Personen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projekte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projekte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reiter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reiter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Todos.html" beforeDir="false" afterPath="$PROJECT_DIR$/Todos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Übung 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Übung 3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Übung 3/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Übung 3/sidebar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +52,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Neuer Ordner (3)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Übung 3/Aufgabe 10/Arrays.php" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -77,7 +71,8 @@
       <updated>1605693869870</updated>
       <workItem from="1605693871662" duration="30440000" />
       <workItem from="1606743739112" duration="9683000" />
-      <workItem from="1606896334020" duration="1686000" />
+      <workItem from="1606896334020" duration="3491000" />
+      <workItem from="1607104236556" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="ToDo Cards verbessert">
       <created>1605952788969</created>
@@ -93,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605955759930</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Seiten angepasst">
+      <created>1606898242538</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606898242538</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,29 +116,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ToDo Cards verbessert" />
     <MESSAGE value="Titel aller Seiten angepasst" />
-    <option name="LAST_COMMIT_MESSAGE" value="Titel aller Seiten angepasst" />
+    <MESSAGE value="Seiten angepasst" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seiten angepasst" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="374" y="160" key="#Deployment" timestamp="1606896587160">
+    <state x="374" y="160" key="#Deployment" timestamp="1606898279813">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="374" y="160" key="#Deployment/0.0.1563.1002@0.0.1563.1002" timestamp="1606896587160" />
+    <state x="374" y="160" key="#Deployment/0.0.1563.1002@0.0.1563.1002" timestamp="1606898279813" />
     <state x="534" y="325" key="#Notifications" timestamp="1605694670052">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
     <state x="534" y="325" key="#Notifications/0.0.1563.1002@0.0.1563.1002" timestamp="1605694670052" />
-    <state x="562" y="243" key="FileChooserDialogImpl" timestamp="1606743899998">
+    <state x="562" y="243" key="FileChooserDialogImpl" timestamp="1607104277199">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="562" y="243" key="FileChooserDialogImpl/0.0.1563.1002@0.0.1563.1002" timestamp="1606743899998" />
+    <state x="562" y="243" key="FileChooserDialogImpl/0.0.1563.1002@0.0.1563.1002" timestamp="1607104277199" />
     <state x="291" y="146" key="SettingsEditor" timestamp="1606063327080">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
     <state x="291" y="146" key="SettingsEditor/0.0.1563.1002@0.0.1563.1002" timestamp="1606063327080" />
-    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1605955763821">
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2" timestamp="1606898247476">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
-    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1605955763821" />
+    <state x="374" y="234" key="Vcs.Push.Dialog.v2/0.0.1563.1002@0.0.1563.1002" timestamp="1606898247476" />
     <state x="599" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605712660892">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>

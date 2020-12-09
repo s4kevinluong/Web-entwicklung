@@ -1,6 +1,6 @@
 <?php include ("header.php");?>
 
-<title>Aufgabenplaner: Reiter</title>
+<title>Aufgabenplaner: Aufgaben</title>
 
 <?php include ("bootstrapIcons.php");?>
 
